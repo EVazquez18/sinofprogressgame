@@ -229,7 +229,8 @@ textarea.form-control:focus:not([readonly]) {
 ================================================================*/
 
 .cd-header a.brand-logo img{
-    width: 8%;
+    width: 10%;
+    height: 10%;
     margin-left: 10%;
     padding: 5px;
     margin-top: 20px;
